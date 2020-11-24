@@ -1,0 +1,21 @@
+{"message":"Unauthorized request to path: /folders","level":"error"}
+{"message":"Unauthorized request to path: /notes","level":"error"}
+{"message":"Unauthorized request to path: /folders","level":"error"}
+{"message":"Unauthorized request to path: /notes","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL query: delete from \"notes\" where \"id\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST query: select * from \"notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Note with id 479b4edc-2fd2-4ca3-9dc5-90a0cf717163 deleted.","level":"info"}
+{"message":"Note with id 1dce72fe-21d9-4187-ab1c-eb99f0d2d253 deleted.","level":"info"}
+{"message":"Note with id 2a663447-e9af-40d4-958f-54f9ed0b884b deleted.","level":"info"}
+{"message":"Note with id f5158780-f11f-4263-947b-279a0c464013 deleted.","level":"info"}
+{"message":"Note with id c09acfa4-8d45-4334-9bc6-74e5b99268f4 deleted.","level":"info"}
+{"message":"Note with id bc25ffd4-04fe-4955-aaa2-5cdf78807cff deleted.","level":"info"}
+{"message":"Note with id 59d85347-d643-491f-bd28-904f0b2aa5b5 deleted.","level":"info"}
+{"message":"Note with id 9762a1b4-d2f6-4555-96e6-f93991370426 deleted.","level":"info"}
+{"message":"Note with id 20c8ff40-845e-4f0f-b08e-50441b55c257 deleted.","level":"info"}
+{"message":"Note with id 5ab92dec-75d2-48b9-8ace-042b2b03a6a3 deleted.","level":"info"}
+{"message":"Note with id a916aaba-f553-4d54-8921-c9d5ff98707f deleted.","level":"info"}
+{"message":"Note with id a916aaba-f553-4d54-8921-c9d5ff98707f not found.","level":"error"}
+{"message":"Note with id 0274d9ef-458e-4320-92f5-9ab617deb303 deleted.","level":"info"}
+{"message":"Note with id 308b29de-c763-4123-afed-fcc65b7b81cd deleted.","level":"info"}
+{"message":"Note with id dec675a8-55c7-44c1-b5a1-a2461125afac deleted.","level":"info"}

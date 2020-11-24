@@ -1,0 +1,2 @@
+TRUNCATE folders;
+TRUNCATE notes;
