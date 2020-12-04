@@ -38,7 +38,7 @@ notefulRouter
 
     const { name, modified, folderId, content } = req.body
 
-    const newNote = { name, modified, folderId, content }
+    const newNote = { name, modified, folderid: folderId, content }
 
     NotefulService.insertNote(
       req.app.get('db'),

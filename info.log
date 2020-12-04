@@ -19,3 +19,23 @@
 {"message":"Note with id 0274d9ef-458e-4320-92f5-9ab617deb303 deleted.","level":"info"}
 {"message":"Note with id 308b29de-c763-4123-afed-fcc65b7b81cd deleted.","level":"info"}
 {"message":"Note with id dec675a8-55c7-44c1-b5a1-a2461125afac deleted.","level":"info"}
+{"message":"select * from \"folders\" - relation \"folders\" does not exist","level":"error"}
+{"message":"select * from \"folders\" - relation \"folders\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"name\") values ($1, $2, $3, $4) returning * - relation \"notes\" does not exist","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"insert into \"folders\" (\"name\") values ($1) returning * - relation \"folders\" does not exist","level":"error"}
+{"message":"insert into \"folders\" (\"name\") values ($1) returning * - relation \"folders\" does not exist","level":"error"}
+{"message":"insert into \"folders\" (\"name\") values ($1) returning * - relation \"folders\" does not exist","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"insert into \"folders\" (\"name\") values ($1) returning * - relation \"folders\" does not exist","level":"error"}
+{"message":"insert into \"folders\" (\"name\") values ($1) returning * - relation \"folders\" does not exist","level":"error"}
+{"message":"insert into \"folders\" (\"name\") values ($1) returning * - relation \"folders\" does not exist","level":"error"}
+{"message":"Folder with id 32d71449-a4c4-45ab-8db5-7160f13189ea created.","level":"info"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"name\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"Folder with id 98aad477-c8e6-44ba-b68e-34dba10d8ee9 created.","level":"info"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"name\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"folderId is required","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"name\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"name\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"Note with id 3634cddc-8292-4ce9-8428-9f481454eaae created.","level":"info"}
+{"message":"Note with id 5b2827d3-fedf-449a-9704-3a15d502ae99 created.","level":"info"}
